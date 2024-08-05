@@ -13,5 +13,6 @@ This is a simple banking application developed in Java using object-oriented pro
 
 - **Java**
 - **NetBeans IDE**
-##SCREAN SHOT:
+  
+## SCREAN SHOT:
 ![application](https://github.com/user-attachments/assets/d75b4151-f169-44ac-b63e-fda5126200f8)
